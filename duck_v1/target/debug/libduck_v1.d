@@ -1,1 +1,0 @@
-/data/company/head-first/duck_v1/target/debug/libduck_v1.rlib: /data/company/head-first/duck_v1/src/duck.rs /data/company/head-first/duck_v1/src/fly.rs /data/company/head-first/duck_v1/src/lib.rs /data/company/head-first/duck_v1/src/mallardduck.rs /data/company/head-first/duck_v1/src/queak.rs

@@ -1,0 +1,6 @@
+# Ignore build artifacts and compiled binaries
+**/target/
+**/Cargo.lock
+
+# Ignore Visual Studio Code settings (if you use VS Code)
+.vscode/
