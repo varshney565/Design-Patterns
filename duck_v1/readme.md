@@ -1,4 +1,4 @@
-# Duck Simulator
+# Duck Simulator (STRATEGY PATTERN)
 
 This Rust project implements a simple duck simulator that allows for flexible behavior composition for ducks. Ducks can have different flying and quacking behaviors, and the simulator demonstrates how these behaviors can be changed at runtime.
 
